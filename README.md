@@ -1,4 +1,4 @@
-#Shell Scripting Learning Projects
+#Shell Scripting Learning Projects#
 Welcome to my Shell Scripting Learning Repository!
 
 This repository is a collection of shell scripts I've created while learning the fundamentals of shell scripting. The primary purpose is to document my learning journey, experiment with different scripting techniques, and share my progress with others.
